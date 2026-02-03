@@ -9,8 +9,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
 💻 Focused on **Sofware Programming**, **AI** and **Web Development**  
 ---
 
@@ -18,18 +16,6 @@
 - 🏅 Foundational C# with Microsoft — https://www.freecodecamp.org/certification/paulin_cingomba_cingomba/foundational-c-sharp-with-microsoft
 - 🏅Responsive Web Design — https://www.freecodecamp.org/certification/paulin_cingomba_cingomba/responsive-web-design-v9
 
-## 🛠 Tech Stack
-
-**Base Languages**
-- C# • C/C++ • Java • JavaScript • Python • PHP • SQL  
-
-**Foundational Frontend**
-- HTML • CSS • JavaScript  
-**Backend**
-- .NET • PHP • Node.js • Spring Boot • Hibernate • REST APIs  
-**Tools**
-- Git • GitHub • NetBeans • PyCharm • Anaconda • VS Code • Visual Studio • MySQL • etc.
----
 
 ## 🤝 Connect With Me
 
