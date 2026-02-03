@@ -11,12 +11,7 @@
 ---
 
 ## 🚀 About Me
-
-🎯 Passionate about mastering **software engineering fundamentals** through hands-on projects  
 💻 Focused on **Sofware Programming**, **AI** and **Web Development**  
-🧠 Learning by building — from small systems to full-stack applications  
-🌱 Advocate for **clean code**, **open source**, and **continuous improvement**
-
 ---
 
 ## 📜 Certificates
@@ -30,32 +25,16 @@
 
 **Foundational Frontend**
 - HTML • CSS • JavaScript  
-
 **Backend**
 - .NET • PHP • Node.js • Spring Boot • Hibernate • REST APIs  
-
 **Tools**
 - Git • GitHub • NetBeans • PyCharm • Anaconda • VS Code • Visual Studio • MySQL • etc.
----
-
-## 📚 What I'm Currently Learning
-- Advanced **Object-Oriented Design**
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulinJ&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinJ&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
 
 - 💼 GitHub: https://github.com/PaulinJ
 - 💬 LinkedIn: https://www.linkedin.com/in/paulin-junior-cingomba-4877242a1/ 
-
 ---
 
 > *"Master the fundamentals. Build real systems. Repeat."*
