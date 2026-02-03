@@ -44,8 +44,10 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulinJ&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinJ&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulinJ&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinJ&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
+</p>
 
 ---
 
