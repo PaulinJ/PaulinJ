@@ -18,8 +18,6 @@
 
 
 ## 🤝 Connect With Me
-
-- 💼 GitHub: https://github.com/PaulinJ
 - 💬 LinkedIn: https://www.linkedin.com/in/paulin-junior-cingomba-4877242a1/ 
 ---
 
