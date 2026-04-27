@@ -8,17 +8,5 @@
   </a>
 </p>
 
----
-💻 Focused on **Sofware Programming**, **AI** and **Web Development**  
----
-
-## 📜 Certificates
-- 🏅 Foundational C# with Microsoft — https://www.freecodecamp.org/certification/paulin_cingomba_cingomba/foundational-c-sharp-with-microsoft
-- 🏅Responsive Web Design — https://www.freecodecamp.org/certification/paulin_cingomba_cingomba/responsive-web-design-v9
-
-
-## 🤝 Connect With Me
-- 💬 LinkedIn: https://www.linkedin.com/in/paulin-junior-cingomba-4877242a1/ 
----
 
 > *"Master the fundamentals. Build real systems. Repeat."*
